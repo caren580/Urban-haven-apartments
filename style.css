@@ -110,7 +110,7 @@ body {
 
 @media screen and (max-width : 43.75em){
     .hero-section-title-main{
-        font-size: 5rem;
+        font-size: 2rem;
     }
     .hero-section-title-sub{
         font-size: 3rem;
@@ -233,13 +233,8 @@ body {
     justify-content: center;
     gap: 2rem;
 }
-@media  screen and (max-width: 31.25em) {
-    .contact-us-section{
-        display: block;
-        align-items: center;
-    }
-    
-}
+
+
         
 .contact-form{
     display: flex;
